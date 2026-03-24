@@ -34,8 +34,3 @@ Dibangun menggunakan **PHP Native (OOP)** dan **MySQL**.
 - Cascade Delete (hapus data otomatis antar relasi)
 - Import data absensi via file CSV
 
-### 🔐 Keamanan
-- Proteksi halaman berdasarkan role
-- Enkripsi password menggunakan:
-  ```php
-  password_hash()
